@@ -1,0 +1,17 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hakandemiral/web-components-2.git",
+  "author": "Hakan Demiral <hakan.98@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "cssnano": "^4.1.10",
+    "parcel-bundler": "^1.12.4",
+    "postcss-cli": "^7.1.0",
+    "postcss-modules": "^3.2.2",
+    "postcss-nested": "^4.0.0",
+    "sass": "^1.27.0"
+  }
+}
